@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Que bom que você veio",
+      "autoria": "Silas",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Jorge Bagre, corre logo homi, Jorge Bragre se não ele te come",
+      "autoria": "Jorge Bagre",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "É o sanitário",
+      "autoria": "Tribufu",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "0",
+      "conteudo": "Jorge Bagre 25",
+      "autoria": "Jorge Bagre 2",
+      "modelo": "modelo3"
+    }
+  ]
+}
